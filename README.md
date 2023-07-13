@@ -22,6 +22,16 @@ o-a*e,m=40+30*          B*(f*A*n-d*c)|0
             /*.,-2023--,.*/
 ```
 
+Run with
+```bash
+node donut.min.js
+```
+
+
 `donut.c`, remade in JS... and the code still looks like a donut!
 
 `donut.js` is the original code, and `donut.min.js` is the actual donut-shaped obfuscated code.
+
+Modified from the [original DOM code](https://www.a1k0n.net/js/donut.js), written by Andy Sloane with AI, and a little bit of playing around with indentation 😅.
+
+If the donut looks elliptical, then you may need to adjust your font to be more square, or just modify line width and font spacing to make it more square.
